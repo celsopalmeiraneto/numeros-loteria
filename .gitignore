@@ -1,0 +1,6 @@
+*.tds
+makefile.lnk
+obj/
+*.bc
+*.log
+*.exe
